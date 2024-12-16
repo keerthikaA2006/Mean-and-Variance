@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-Date:10.10.2024
+# Date:10.10.2024
 
 # Aim : 
 
